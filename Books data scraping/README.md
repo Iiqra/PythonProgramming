@@ -3,7 +3,9 @@ The code in this notebook is written to automate the process of scraping book's 
 
 # Tech Stack
 Python
+
 Selenium WebDriver 
+
 Beautiful Soup
 
 # Prerequisites 
